@@ -1,0 +1,9 @@
+127.0.0.1 - - [22/Nov/2023:18:29:10 +0900] "GET / HTTP/1.1" 404 807
+127.0.0.1 - - [22/Nov/2023:18:31:24 +0900] "GET / HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [22/Nov/2023:18:31:26 +0900] "GET /jwbook/studentControl HTTP/1.1" 500 1628
+0:0:0:0:0:0:0:1 - - [22/Nov/2023:18:31:26 +0900] "GET /favicon.ico HTTP/1.1" 404 818
+127.0.0.1 - - [22/Nov/2023:18:39:25 +0900] "GET / HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [22/Nov/2023:18:39:28 +0900] "GET /jwbook/studentControl HTTP/1.1" 200 1231
+0:0:0:0:0:0:0:1 - - [22/Nov/2023:19:08:36 +0900] "POST /jwbook/studentControl?action=insert HTTP/1.1" 200 1331
+0:0:0:0:0:0:0:1 - - [22/Nov/2023:19:14:28 +0900] "GET /jwbook/ListenerTestServlet HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [22/Nov/2023:19:16:54 +0900] "GET /jwbook/ListenerTestServlet HTTP/1.1" 200 -
