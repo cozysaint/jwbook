@@ -1,3 +1,2 @@
 #Tomcat publish data
-#Fri Dec 08 15:31:37 KST 2023
-org.eclipse.jst.jee.server\:/binary\:/Users/notseonghyun/.m2/repository/org/springframework/spring-web/5.3.5/spring-web-5.3.5.jar=WEB-INF/lib/spring-web-5.3.5.jar
+#Fri Dec 08 17:31:33 KST 2023
